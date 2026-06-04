@@ -1,12 +1,12 @@
-# 🛒 Superstore Sales Analysis
+#Superstore Sales Analysis
 
-## 📌 Project Overview
+##Project Overview
 This project analyzes 9,994 retail sales transactions using Python and MySQL.  
 The dataset was cleaned using Pandas and stored in a relational MySQL database for business analysis.
 
 ---
 
-## 🛠 Tools & Technologies
+##Tools & Technologies
 - Python
 - Pandas
 - MySQL
@@ -15,7 +15,7 @@ The dataset was cleaned using Pandas and stored in a relational MySQL database f
 
 ---
 
-## ⚙️ Project Workflow
+##Project Workflow
 1. Data cleaning using Pandas
 2. Date conversion & missing value handling
 3. Database schema design in MySQL
@@ -25,7 +25,7 @@ The dataset was cleaned using Pandas and stored in a relational MySQL database f
 
 ---
 
-## 📊 Key Business Insights
+##Key Business Insights
 - Technology category generated highest revenue
 - Higher discounts significantly reduced profit margins
 - West region contributed maximum total sales
@@ -33,5 +33,5 @@ The dataset was cleaned using Pandas and stored in a relational MySQL database f
 
 ---
 
-## 🚀 Author
+##Author
 Shrawani Bonde
