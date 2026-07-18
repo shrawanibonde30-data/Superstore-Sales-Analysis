@@ -3,7 +3,7 @@ import mysql.connector
 conn = mysql.connector.connect(
     host="localhost",
     user="shrawani",
-    password="Shrawani@1606",
+    password="DB_PASSWORD",
     database="superstore_project"
 )
 
